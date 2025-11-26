@@ -7,7 +7,8 @@ DeepSeek
 华为
 鸿蒙
 HarmonyOS
-任正非
+!新品
+!广告
 
 比亚迪
 王传福
@@ -40,8 +41,6 @@ DJI
 刘慈欣
 郭帆
 
-申奥
-
 京东
 刘强东
 
@@ -62,24 +61,24 @@ NVIDIA
 AMD
 
 谷歌
-google
-gemini
-deepmind
+Google
+Gemini
+Deepmind
 
-chatgpt
-openai
-sora
+Chatgpt
+OpenAI
+Sora
 
-claude
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+iPhone
+iPad
+Mac
+iOS
 
-ai
-!gai
+AI
+!GAI
 人工智能
 
 自动驾驶
@@ -90,6 +89,16 @@ ai
 中国
 
 美国
+特朗普
+
+欧洲
+欧盟
+法国
+马克龙
+德国
+英国
+
+亚洲
 日本
 韩国
 
